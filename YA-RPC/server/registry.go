@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Roeeeee/YA-RPC/client"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/client"
 )
 
 var serverMap map[string]*rserver
