@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/Roeeeee/YA-RPC/server"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/server"
 )
 
 var listenIp string
