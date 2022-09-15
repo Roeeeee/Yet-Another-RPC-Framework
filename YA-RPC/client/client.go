@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/Roeeeee/YA-RPC/comm"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/comm"
 )
 
 type Client struct {
