@@ -1,4 +1,4 @@
-# Yet-Another-RPC-Framework
+# Yet-Another RPC Framework
 电子科技大学2021秋季学期《分布式系统》课程设计：Yet-Another RPC Framework。
 ## 目录说明
 client_test，regusrtry_test，server_test这三个文件夹中的是测试程序，分别包含client、server、registry的源码。
