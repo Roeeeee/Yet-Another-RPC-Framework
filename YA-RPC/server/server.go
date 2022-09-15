@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Roeeeee/YA-RPC/client"
-	"github.com/Roeeeee/YA-RPC/comm"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/client"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/comm"
 )
 
 type Server struct {
