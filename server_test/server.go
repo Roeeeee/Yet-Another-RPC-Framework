@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/Roeeeee/YA-RPC/server"
+	"github.com/Roeeeee/Yet-Another-RPC-Framewor/YA-RPC/server"
 )
 
 type SumRequest struct {
